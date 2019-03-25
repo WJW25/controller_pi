@@ -1,0 +1,8 @@
+prefix=/home/wangjiawen/controller_pi/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/wangjiawen/controller_pi/src/serial/include
+Libs: -L/home/wangjiawen/controller_pi/devel/lib -lserial
+Requires: 
